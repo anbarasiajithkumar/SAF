@@ -24,7 +24,7 @@ public class validuser {
 	
 	@Test
 	public void case2() throws InterruptedException {
-		System.out.println(" Executing SAF urls");
+		System.out.println(" Executing SAF urls...");
 		System.setProperty("webdriver.chrome.driver", "F:\\selenium-files\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("http://teammigrate:18080/#/user/login");
