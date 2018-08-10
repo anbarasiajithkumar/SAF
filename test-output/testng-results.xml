@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="25921" started-at="2018-08-10T09:29:33Z" finished-at="2018-08-10T09:29:59Z">
+  <suite name="Default suite" duration-ms="25450" started-at="2018-08-10T10:02:19Z" finished-at="2018-08-10T10:02:44Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="25921" started-at="2018-08-10T09:29:33Z" finished-at="2018-08-10T09:29:59Z">
+    <test name="Default test" duration-ms="25450" started-at="2018-08-10T10:02:19Z" finished-at="2018-08-10T10:02:44Z">
       <class name="login.validuser">
-        <test-method status="PASS" signature="case1()[pri:0, instance:login.validuser@1b604f19]" name="case1" duration-ms="14740" started-at="2018-08-10T14:59:33Z" finished-at="2018-08-10T14:59:48Z">
+        <test-method status="PASS" signature="case1()[pri:0, instance:login.validuser@1b604f19]" name="case1" duration-ms="13821" started-at="2018-08-10T15:32:19Z" finished-at="2018-08-10T15:32:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- case1 -->
-        <test-method status="PASS" signature="case2()[pri:0, instance:login.validuser@1b604f19]" name="case2" duration-ms="10936" started-at="2018-08-10T14:59:48Z" finished-at="2018-08-10T14:59:59Z">
+        <test-method status="PASS" signature="case2()[pri:0, instance:login.validuser@1b604f19]" name="case2" duration-ms="11602" started-at="2018-08-10T15:32:32Z" finished-at="2018-08-10T15:32:44Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- case2 -->
