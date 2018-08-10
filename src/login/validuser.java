@@ -30,7 +30,7 @@ public class validuser {
 		driver.get("http://teammigrate:18080/#/user/login");
 		driver.manage().window().maximize();
 		driver.findElement(By.id("userName")).sendKeys("hprasad");
-		driver.findElement(By.id("password")).sendKeys("Test@123");
+		driver.findElement(By.id("password")).sendKeys("Test@1234");
 		driver.findElement(By.cssSelector(".btn.btn-login")).click();
 		Thread.sleep(3000);
 		driver.close();
