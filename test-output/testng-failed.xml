@@ -5,7 +5,7 @@
     <classes>
       <class name="login.validuser">
         <methods>
-          <include name="zephyrtestingtwo"/>
+          <include name="case2"/>
         </methods>
       </class> <!-- login.validuser -->
     </classes>
